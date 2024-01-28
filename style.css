@@ -1,0 +1,88 @@
+* {
+   font-family: sans-serif;
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.caixa-azul{
+   display: flex;
+   padding: 50px;
+}
+
+.titulo-iphone {
+   font-size: 30px;
+   color: red;
+}
+
+.titulo-secundario {
+   font-size: 40px;
+   margin-top: 10px;
+   margin-bottom: 20px;
+}
+
+.paragrafo {
+   font-size: 17px;
+   margin-bottom: 45px;
+}
+
+.preco {
+   font-size: 20px; 
+   color: #626262;
+   font-weight: 300;
+   margin-bottom: 35px;
+}
+
+.botao {
+   background-color: #0071e3;
+   color: #ffffff;
+   padding: 10px 20px;
+   border: none;
+   border-radius: 30px;
+   cursor: pointer;
+}
+
+.troca-cor {
+   width: 40px;
+   height: 40px;
+   border-radius: 50px;
+   border: none;
+   cursor: pointer;
+}
+
+.azul {
+   background-color: #81A5C4;
+}
+
+.amarelo {
+   background-color: #F7DA47;
+}
+
+.bramco {
+   background-color: #C1C1C1;
+}
+
+.preto {
+   background-color: #272D33;
+}
+
+.vermelho {
+   background-color: #B50012;
+}
+
+.roxo {
+   background-color: #EDE7F1;
+}
+
+.escolha-cor {
+   font-size: 20px;
+   color: #3a3a3a;
+   font-weight: 700;
+   margin-top: 50px;
+   margin-bottom: 20px;
+}
+
+img {
+   width: 400px;
+
+}
