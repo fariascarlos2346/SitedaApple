@@ -124,3 +124,46 @@ li {
    left: 0;
    clip-path: circle(600px at right 1000px);
 }
+
+@media(max-width:1100){
+
+   p {
+      display: none;
+   }
+
+   caixa-roxa {
+      flex-direction: column;
+      padding: 15px;
+   }
+
+   caixa-azul {
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+   }
+
+   .trocasdeimage {
+      width: 80vw;
+      height: auto;
+   }
+
+   .header {
+      margin: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+   }
+
+   .header img {
+      display: none;
+   }
+
+   .header a {
+      font-size: 20px;
+   }
+
+   .logo03 {
+      width: 80vw;
+      height: auto;
+   }
+}
